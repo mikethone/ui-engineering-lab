@@ -3,7 +3,7 @@ import Link from "next/link"
 export default function LabHomePage() {
   return (
     <div className="space-y-8">
-      <h1 className="text-3xl font-bold">UI Engineering Lab</h1>
+      <h1 className="text-3xl font-serif font-bold">UI Engineering Lab</h1>
 
       <p className="text-gray-700">
         Welcome to the UI Engineering Lab! I'm using this space to learn and experiment with design system components
